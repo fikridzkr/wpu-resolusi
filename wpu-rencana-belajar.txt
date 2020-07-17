@@ -2,8 +2,7 @@ RENCANA BELAJAR WPU
 
 -JAVASCRIPT
   *Frame Work JS
-  >VUE JS
-  >React JS
+ >VUE JS
 -DOM
 -NODEJS
 -LARAVEL
